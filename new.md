@@ -6,3 +6,5 @@ Here is some regular text.
 more text.
 
 #New header
+
+* Try to understand how to understand file changes
